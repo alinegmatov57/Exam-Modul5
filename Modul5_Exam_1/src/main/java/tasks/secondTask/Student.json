@@ -1,0 +1,23 @@
+[
+{
+  "firstName": "Ali",
+  "lastName": "Negmatov",
+  "age": 18
+},
+  {
+    "firstName": "Jasur",
+    "lastName": "Xolmatov",
+    "age": 22
+  },
+  {
+    "firstName": "Sobir",
+    "lastName": "Raximov",
+    "age": 30
+  },
+  {
+    "firstName": "Ketmon",
+    "lastName": "Boltayev",
+    "age": 20
+  }
+
+]
